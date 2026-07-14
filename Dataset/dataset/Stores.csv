@@ -1,0 +1,37 @@
+Store_ID,Store_Name,Store_Country,Region,Sales_Channel
+S001,India Store 1,India,Asia Pacific,Online
+S002,India Store 2,India,Asia Pacific,Online
+S003,India Store 3,India,Asia Pacific,Offline
+S004,India Store 4,India,Asia Pacific,Online
+S005,India Store 5,India,Asia Pacific,Offline
+S006,India Store 6,India,Asia Pacific,Online
+S007,USA Store 1,USA,North America,Offline
+S008,USA Store 2,USA,North America,Online
+S009,USA Store 3,USA,North America,Offline
+S010,USA Store 4,USA,North America,Offline
+S011,USA Store 5,USA,North America,Online
+S012,USA Store 6,USA,North America,Offline
+S013,UK Store 1,UK,Europe,Offline
+S014,UK Store 2,UK,Europe,Online
+S015,UK Store 3,UK,Europe,Offline
+S016,UK Store 4,UK,Europe,Offline
+S017,UK Store 5,UK,Europe,Online
+S018,UK Store 6,UK,Europe,Online
+S019,Germany Store 1,Germany,Europe,Offline
+S020,Germany Store 2,Germany,Europe,Online
+S021,Germany Store 3,Germany,Europe,Offline
+S022,Germany Store 4,Germany,Europe,Online
+S023,Germany Store 5,Germany,Europe,Offline
+S024,Germany Store 6,Germany,Europe,Offline
+S025,UAE Store 1,UAE,Middle East,Online
+S026,UAE Store 2,UAE,Middle East,Offline
+S027,UAE Store 3,UAE,Middle East,Offline
+S028,UAE Store 4,UAE,Middle East,Offline
+S029,UAE Store 5,UAE,Middle East,Online
+S030,UAE Store 6,UAE,Middle East,Online
+S031,Australia Store 1,Australia,Asia Pacific,Offline
+S032,Australia Store 2,Australia,Asia Pacific,Online
+S033,Australia Store 3,Australia,Asia Pacific,Offline
+S034,Australia Store 4,Australia,Asia Pacific,Offline
+S035,Australia Store 5,Australia,Asia Pacific,Online
+S036,Australia Store 6,Australia,Asia Pacific,Offline

@@ -100,7 +100,7 @@ The dashboard follows a Star Schema model with optimized relationships for bette
 ![Global Market Insights](Images/images/dashboard-page4.png.png)
 
 ### Data Model
-![Model View](Images/images/Model-view-page.png.png)
+![Model View](Images/images/Modelview-page.png.png)
 
 
 ---

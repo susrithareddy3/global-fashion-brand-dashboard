@@ -88,19 +88,19 @@ The dashboard follows a Star Schema model with optimized relationships for bette
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Images/dashboard-page1.png.png)
+![Executive Overview](Images/images/dashboard-page1.png.png)
 
 ### Sales Performance
-![Sales Performance](Images/dashboard-page2.png.png)
+![Sales Performance](Images/images/dashboard-page2.png.png)
 
 ### Customer Insights
-![Customer Insights](Images/dashboard-page3.png.png)
+![Customer Insights](Images/images/dashboard-page3.png.png)
 
 ### Global Market Insights
-![Global Market Insights](Images/dashboard-page4.png.png)
+![Global Market Insights](Images/images/dashboard-page4.png.png)
 
 ### Data Model
-![Model View](Images/Model-view-page.png.png)
+![Model View](Images/images/Model-view-page.png.png)
 
 
 ---

@@ -85,24 +85,27 @@ It helps business stakeholders understand revenue trends, customer behavior, pro
 The dashboard follows a Star Schema model with optimized relationships for better performance.
 
 ---
-## 📸 Dashboard Preview
+# 📸 Dashboard Preview
 
-### Executive Overview
+## Executive Overview
+
 ![Executive Overview](Images/dashboard-page1.png)
 
-### Sales Performance
+## Sales Performance
+
 ![Sales Performance](Images/dashboard-page2.png)
 
-### Customer Insights
+## Customer Insights
+
 ![Customer Insights](Images/dashboard-page3.png)
 
-### Global Market Insights
+## Global Market Insights
+
 ![Global Market Insights](Images/dashboard-page4.png)
 
-### Data Model
+## Data Model (Star Schema)
+
 ![Model View](Images/modelview-page.png)
-
-
 ---
 
 ## 📂 Repository Structure

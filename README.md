@@ -121,6 +121,5 @@ Video/
 
 **Susritha Reddy**
 
-Power BI Developer | Data Analytics Enthusiast
-
+Aspiring Data Analyst | Power BI | SQL | Excel
 ---
